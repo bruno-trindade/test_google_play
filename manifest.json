@@ -3,7 +3,7 @@
   "name": "Qeepsake",
   "icons": [
     {
-      "src": "/qs_logo.png",
+      "src": "./qs_logo.png",
       "type": "image/png",
       "sizes": "144x144"
     }
