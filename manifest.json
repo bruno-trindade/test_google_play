@@ -36,6 +36,7 @@
   "prefer_related_applications": true,
   "related_applications": [
     {
+      "type": "play",
       "platform": "play",
       "id": "com.google.samples.apps.iosched"
     }
