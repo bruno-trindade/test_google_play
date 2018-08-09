@@ -38,7 +38,7 @@
     {
       "type": "play",
       "platform": "play",
-      "id": "com.qeepsake.qeepsakeApp"
+      "id": "com.qeepsake.qeepsakeapp"
     }
   ],
   "start_url": "./index.html",
